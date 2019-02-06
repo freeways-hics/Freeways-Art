@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="28.107517mm"
+   height="28.097382mm"
+   viewBox="0 0 99.593565 99.557651"
+   id="svg4232"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="freeways-logo.svg">
+  <defs
+     id="defs4234" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.76289062"
+     inkscape:cx="-140.8151"
+     inkscape:cy="-64.650253"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4237">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-322.47152,-368.1543)">
+    <g
+       style="display:inline"
+       id="g3881-5"
+       transform="matrix(0.31871347,0,0,0.31871347,258.44207,276.49104)">
+      <ellipse
+         ry="135.71428"
+         rx="123.57143"
+         cy="439.50504"
+         cx="405"
+         transform="matrix(1.2592997,0,0,1.1466255,-152.87353,-60.156946)"
+         id="path3051-6"
+         style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         id="g4020-2"
+         transform="translate(2.1948845,1.116348)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           id="rect3825-9"
+           width="19.999023"
+           height="139.99747"
+           x="310.00046"
+           y="372.36218" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           id="rect3827-1"
+           width="79.996735"
+           height="20.003826"
+           x="339.99936"
+           y="372.36292" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           id="rect3829-2"
+           width="60.001366"
+           height="19.834047"
+           x="339.99863"
+           y="432.36224" />
+      </g>
+    </g>
+  </g>
+</svg>
